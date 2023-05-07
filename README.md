@@ -1,6 +1,8 @@
 # Cloudnet-DS-theory
-Research on Multi-temporal Cloud Removal Using D-S Evidence Theory and Cloud Segmentation Model
-We proposed a D-S evidence theory based multi-temporal cloud removal method and Cloud Segmentation Model, which is introduced in "Research on Multi-temporal Cloud Removal Using D-S Evidence Theory and Cloud Segmentation Model". We applied cloud-net[1] in our method. If you want to train the network yourself, you can find information in [here](https://github.com/SorourMo/Cloud-Net-A-semantic-segmentation-CNN-for-cloud-detection/tree/6c30ad6482847c855337baa5f17c24adaf5e5cda). The pretrained weights can be downloaded [here](https://vault.sfu.ca/index.php/s/2Xk6ZRbwfnjrOtu). The data we used were provided by government, so we can't publish our data. We are sorry for that.
+Research on Multi-temporal Cloud Removal Using D-S Evidence Theory and Cloud Segmentation Model.
+
+
+We proposed a D-S evidence theory based multi-temporal cloud removal method and Cloud Segmentation Model, which is introduced in ["Research on Multi-temporal Cloud Removal Using D-S Evidence Theory and Cloud Segmentation Model"](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). We applied cloud-net[1] in our method. If you want to train the network yourself, you can find information in [here](https://github.com/SorourMo/Cloud-Net-A-semantic-segmentation-CNN-for-cloud-detection/tree/6c30ad6482847c855337baa5f17c24adaf5e5cda). The pretrained weights can be downloaded [here](https://vault.sfu.ca/index.php/s/2Xk6ZRbwfnjrOtu). The data we used were provided by government, so we can't publish our data. We are sorry for that.
 
 ## Requirements
 Python 3.6<br>
