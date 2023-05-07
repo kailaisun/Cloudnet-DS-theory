@@ -11,6 +11,10 @@ Keras 2.2.4<br>
 Scikit-image 0.15.0<br>
 *If you are using latest GPU like RTX 3090, loading pretrained weights may cost long time. <br>
 
+## How to use
+```
+python main_test.py
+```
 ## How to remove cloud in images
 1. Collect a series of cloudy pictures in same location.
 2. Apply 'Cloud-Net\single_test' to get cloud segmentation results.
